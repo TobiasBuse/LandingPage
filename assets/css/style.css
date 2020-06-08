@@ -24,7 +24,6 @@ header nav ul li {
 }
 
 
-
 h1 {
     padding: 2%;
     text-shadow: 2px 2px white;
@@ -33,11 +32,11 @@ h1 {
 }
 
 
-
 h3 {
     font-size: 14px;
     font-weight: lighter;
 }
+
 
 .right{
     padding: 0 60%;
@@ -55,9 +54,11 @@ h3 {
     background-color: lightgrey;
 }
 
+
 .doublearrow {
     padding-left: 60%;
 }
+
 
 .wakepark2{
     background: url(../img/wakeboarder3.jpg) left/contain no-repeat;
@@ -67,8 +68,6 @@ h3 {
     margin-bottom: 6%;
     padding-top: 1%;
     background-color: lightgrey;
-    
-    
 }
 
 
@@ -96,6 +95,7 @@ article div {
     padding-left: 2%;
 }
 
+
 .button {
     border: 2px solid white;
     font-size: 1.5em;
@@ -105,10 +105,10 @@ article div {
 }
 
 
-
 article div h3:nth-child(4) {
     margin-bottom: 3%;
 }
+
 
 .button:hover{
     text-shadow: 2px 2px white;
